@@ -4,6 +4,8 @@ var getWords     = require('./getWords');
 var getWordsFlat = require('./getWordsFlat');
 var getScores    = require('./getScores');
 
+
+
 var titles = getTitles(mitcourses); 
 console.log(titles);
 
